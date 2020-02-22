@@ -1,0 +1,33 @@
+
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.3333333333333333
+recall: 0.2888888888888889
+fp_rate: 1.3333333333333333
+mse: 0.5333333333333333
+f1_measure: 0.30952380952380953
+
+**SETOSA: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**VIRGINICA: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.0
+recall: 0.0
+fp_rate: 4.0
+mse: 16
+f1_measure: 0.0
+
+**VERSICOLOR: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 1.0
+recall: 0.8666666666666667
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.9285714285714286

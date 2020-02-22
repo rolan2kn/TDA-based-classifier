@@ -1,0 +1,4201 @@
+
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9326923076923078
+recall: 0.8720862470862473
+fp_rate: 0.0673076923076923
+mse: 0.06666666666666667
+f1_measure: 0.8993589743589743
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9326923076923078
+recall: 0.8720862470862473
+fp_rate: 0.0673076923076923
+mse: 0.06666666666666667
+f1_measure: 0.8993589743589743
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333333
+precision: 1.0
+recall: 0.8181818181818182
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.9
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9326923076923078
+recall: 0.8720862470862473
+fp_rate: 0.0673076923076923
+mse: 0.06666666666666667
+f1_measure: 0.8993589743589743
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333333
+precision: 0.875
+recall: 0.875
+fp_rate: 0.125
+mse: 1
+f1_measure: 0.875
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9326923076923078
+recall: 0.8720862470862473
+fp_rate: 0.0673076923076923
+mse: 0.06666666666666667
+f1_measure: 0.8993589743589743
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333333
+precision: 0.9230769230769231
+recall: 0.9230769230769231
+fp_rate: 0.07692307692307693
+mse: 1
+f1_measure: 0.9230769230769231
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9583333333333334
+recall: 0.9375
+fp_rate: 0.047619047619047616
+mse: 0.03333333333333333
+f1_measure: 0.9448028673835126
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9583333333333334
+recall: 0.9375
+fp_rate: 0.047619047619047616
+mse: 0.03333333333333333
+f1_measure: 0.9448028673835126
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 1.0
+recall: 0.9375
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.967741935483871
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9583333333333334
+recall: 0.9375
+fp_rate: 0.047619047619047616
+mse: 0.03333333333333333
+f1_measure: 0.9448028673835126
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.875
+recall: 1.0
+fp_rate: 0.14285714285714285
+mse: 1
+f1_measure: 0.9333333333333333
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9583333333333334
+recall: 0.9375
+fp_rate: 0.047619047619047616
+mse: 0.03333333333333333
+f1_measure: 0.9448028673835126
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 1.0
+recall: 0.875
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.9333333333333333
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9696969696969697
+recall: 0.9285714285714285
+fp_rate: 0.03333333333333333
+mse: 0.03333333333333333
+f1_measure: 0.9461402794736129
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9696969696969697
+recall: 0.9285714285714285
+fp_rate: 0.03333333333333333
+mse: 0.03333333333333333
+f1_measure: 0.9461402794736129
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 1.0
+recall: 0.8571428571428571
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.923076923076923
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9696969696969697
+recall: 0.9285714285714285
+fp_rate: 0.03333333333333333
+mse: 0.03333333333333333
+f1_measure: 0.9461402794736129
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9090909090909091
+recall: 1.0
+fp_rate: 0.1
+mse: 1
+f1_measure: 0.9523809523809523
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 0.9696969696969697
+recall: 0.9285714285714285
+fp_rate: 0.03333333333333333
+mse: 0.03333333333333333
+f1_measure: 0.9461402794736129
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9666666666666667
+precision: 1.0
+recall: 0.9285714285714286
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.962962962962963
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9333333333333332
+recall: 0.8857142857142857
+fp_rate: 0.08333333333333333
+mse: 0.06666666666666667
+f1_measure: 0.9002849002849004
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9333333333333332
+recall: 0.8857142857142857
+fp_rate: 0.08333333333333333
+mse: 0.06666666666666667
+f1_measure: 0.9002849002849004
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333333
+precision: 1.0
+recall: 0.8
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9333333333333332
+recall: 0.8857142857142857
+fp_rate: 0.08333333333333333
+mse: 0.06666666666666667
+f1_measure: 0.9002849002849004
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333333
+precision: 1.0
+recall: 0.8571428571428571
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.923076923076923
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333332
+precision: 0.9333333333333332
+recall: 0.8857142857142857
+fp_rate: 0.08333333333333333
+mse: 0.06666666666666667
+f1_measure: 0.9002849002849004
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9333333333333333
+precision: 0.8
+recall: 1.0
+fp_rate: 0.25
+mse: 1
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8777777777777778
+recall: 0.7666666666666667
+fp_rate: 0.12222222222222223
+mse: 0.13333333333333333
+f1_measure: 0.8111111111111112
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8777777777777778
+recall: 0.7666666666666667
+fp_rate: 0.12222222222222223
+mse: 0.13333333333333333
+f1_measure: 0.8111111111111112
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8777777777777778
+recall: 0.7666666666666667
+fp_rate: 0.12222222222222223
+mse: 0.13333333333333333
+f1_measure: 0.8111111111111112
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8
+recall: 0.8
+fp_rate: 0.2
+mse: 1
+f1_measure: 0.8000000000000002
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8777777777777778
+recall: 0.7666666666666667
+fp_rate: 0.12222222222222223
+mse: 0.13333333333333333
+f1_measure: 0.8111111111111112
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8333333333333334
+recall: 0.8333333333333334
+fp_rate: 0.16666666666666666
+mse: 1
+f1_measure: 0.8333333333333334
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8222222222222223
+recall: 0.7481481481481481
+fp_rate: 0.17777777777777778
+mse: 0.13333333333333333
+f1_measure: 0.7805555555555556
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8222222222222223
+recall: 0.7481481481481481
+fp_rate: 0.17777777777777778
+mse: 0.13333333333333333
+f1_measure: 0.7805555555555556
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 1.0
+recall: 0.7777777777777778
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8750000000000001
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8222222222222223
+recall: 0.7481481481481481
+fp_rate: 0.17777777777777778
+mse: 0.13333333333333333
+f1_measure: 0.7805555555555556
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.3333333333333333
+mse: 1
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8222222222222223
+recall: 0.7481481481481481
+fp_rate: 0.17777777777777778
+mse: 0.13333333333333333
+f1_measure: 0.7805555555555556
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8666666666666667
+precision: 0.8
+recall: 0.8
+fp_rate: 0.2
+mse: 1
+f1_measure: 0.8000000000000002
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8333333333333334
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8333333333333334
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8571428571428571
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8333333333333334
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8571428571428571
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.75
+recall: 1.0
+fp_rate: 0.3333333333333333
+mse: 1
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8333333333333334
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8571428571428571
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.8333333333333334
+recall: 0.8611111111111112
+fp_rate: 0.3333333333333333
+mse: 0.1
+f1_measure: 0.810966810966811
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.8333333333333334
+recall: 0.8611111111111112
+fp_rate: 0.3333333333333333
+mse: 0.1
+f1_measure: 0.810966810966811
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.8333333333333334
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.9090909090909091
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.8333333333333334
+recall: 0.8611111111111112
+fp_rate: 0.3333333333333333
+mse: 0.1
+f1_measure: 0.810966810966811
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.8333333333333334
+recall: 0.8611111111111112
+fp_rate: 0.3333333333333333
+mse: 0.1
+f1_measure: 0.810966810966811
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.5
+recall: 1.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9333333333333332
+recall: 0.8055555555555555
+fp_rate: 0.08333333333333333
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9333333333333332
+recall: 0.8055555555555555
+fp_rate: 0.08333333333333333
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9333333333333332
+recall: 0.8055555555555555
+fp_rate: 0.08333333333333333
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.8
+recall: 1.0
+fp_rate: 0.25
+mse: 1
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9333333333333332
+recall: 0.8055555555555555
+fp_rate: 0.08333333333333333
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8222222222222223
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8222222222222223
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.8
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8222222222222223
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.75
+recall: 1.0
+fp_rate: 0.3333333333333333
+mse: 1
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 0.9166666666666666
+recall: 0.8222222222222223
+fp_rate: 0.1111111111111111
+mse: 0.1
+f1_measure: 0.8486772486772486
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.9
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6666666666666666
+recall: 0.5
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.5714285714285714
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6666666666666666
+recall: 0.5
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.5714285714285714
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6666666666666666
+recall: 0.5
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.5714285714285714
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6666666666666666
+recall: 0.5
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.5714285714285714
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.0
+recall: 0.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.8055555555555555
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.8055555555555555
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.8055555555555555
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.8055555555555555
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.5
+recall: 1.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.7666666666666666
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7407407407407408
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.7666666666666666
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7407407407407408
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.8
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.7666666666666666
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7407407407407408
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.5
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8333333333333334
+recall: 0.7666666666666666
+fp_rate: 0.3333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.7407407407407408
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.5
+recall: 1.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6
+recall: 0.5555555555555555
+fp_rate: 0.08333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.562962962962963
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6
+recall: 0.5555555555555555
+fp_rate: 0.08333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.562962962962963
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6
+recall: 0.5555555555555555
+fp_rate: 0.08333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.562962962962963
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6
+recall: 0.5555555555555555
+fp_rate: 0.08333333333333333
+mse: 0.14285714285714285
+f1_measure: 0.562962962962963
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8
+recall: 1.0
+fp_rate: 0.25
+mse: 1
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8888888888888888
+recall: 0.75
+fp_rate: 0.16666666666666666
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8888888888888888
+recall: 0.75
+fp_rate: 0.16666666666666666
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.5
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8888888888888888
+recall: 0.75
+fp_rate: 0.16666666666666666
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 1.0
+recall: 0.75
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.8888888888888888
+recall: 0.75
+fp_rate: 0.16666666666666666
+mse: 0.14285714285714285
+f1_measure: 0.7746031746031745
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8571428571428571
+precision: 0.6666666666666666
+recall: 1.0
+fp_rate: 0.5
+mse: 1
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8888888888888888
+recall: 0.7222222222222222
+fp_rate: 0.16666666666666666
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8888888888888888
+recall: 0.7222222222222222
+fp_rate: 0.16666666666666666
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8888888888888888
+recall: 0.7222222222222222
+fp_rate: 0.16666666666666666
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.5
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8888888888888888
+recall: 0.7222222222222222
+fp_rate: 0.16666666666666666
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.6666666666666666
+recall: 1.0
+fp_rate: 0.5
+mse: 1
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5833333333333334
+recall: 0.5555555555555555
+fp_rate: 0.1111111111111111
+mse: 0.16666666666666666
+f1_measure: 0.5523809523809523
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5833333333333334
+recall: 0.5555555555555555
+fp_rate: 0.1111111111111111
+mse: 0.16666666666666666
+f1_measure: 0.5523809523809523
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5833333333333334
+recall: 0.5555555555555555
+fp_rate: 0.1111111111111111
+mse: 0.16666666666666666
+f1_measure: 0.5523809523809523
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.75
+recall: 1.0
+fp_rate: 0.3333333333333333
+mse: 1
+f1_measure: 0.8571428571428571
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5833333333333334
+recall: 0.5555555555555555
+fp_rate: 0.1111111111111111
+mse: 0.16666666666666666
+f1_measure: 0.5523809523809523
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5
+recall: 1.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.6666666666666666
+recall: 0.43333333333333335
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.6666666666666666
+recall: 0.43333333333333335
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.8
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.6666666666666666
+recall: 0.43333333333333335
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.5
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.6666666666666666
+recall: 0.43333333333333335
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.0
+recall: 0.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.8
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.8333333333333334
+recall: 0.7777777777777777
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.7555555555555555
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5
+recall: 1.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 1.0
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 1.0
+recall: 1.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 1.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.6666666666666666
+recall: 0.6666666666666666
+fp_rate: 0.0
+mse: 0.0
+f1_measure: 0.6666666666666666
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 1.0
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5
+recall: 0.6
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5
+recall: 0.6
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**0: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.0
+recall: 0.0
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.0
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5
+recall: 0.6
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**1: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 1.0
+recall: 0.8
+fp_rate: 0.0
+mse: 0
+f1_measure: 0.888888888888889
+
+**--*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5
+recall: 0.6
+fp_rate: 0.3333333333333333
+mse: 0.16666666666666666
+f1_measure: 0.5185185185185185
+
+**2: --*-*-*-*-*-*-*-*-*-*-*
+ agree_rate: 0.8333333333333334
+precision: 0.5
+recall: 1.0
+fp_rate: 1.0
+mse: 1
+f1_measure: 0.6666666666666666
