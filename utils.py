@@ -71,7 +71,7 @@ def get_module_pkg():
     return '.'.join(__name__.split('.')[:-1])
 
 
-def get_all_filenames(root_path=None):
+def get_all_filenames(root_path=None, file_pattern = None):
     root_path = get_module_path() if root_path is None else root_path
     files_list = []
 
@@ -84,7 +84,9 @@ def get_all_filenames(root_path=None):
             else:
                 str_to_print = "{0}/{1}".format(path, _file)
 
-            if str_to_print.find("hyper_params")  != -1:
+            if file_pattern is None or len(file_pattern) == 0:
+                files_list.append(str_to_print)
+            elif str_to_print.find(file_pattern) != -1:
                 files_list.append(str_to_print)
 
     return files_list

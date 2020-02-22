@@ -46,7 +46,7 @@ class TDABCHyperParamFileParser:
         return self.values_dict
 
     def get_hyper_params(self):
-        files_names = utils.get_all_filenames()
+        files_names = utils.get_all_filenames(file_pattern="hyper_params")
 
         for file in files_names:
             self.process_hp_file(file)

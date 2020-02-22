@@ -11,6 +11,7 @@ from knn_classifier import kNNClassifier
 
 from filtration_predicates import FiltrationPredicate, FiltrationEqualPredicate, FiltrationLowerThanPredicate, FiltrationGreaterThanPredicate
 from simplex_tree_file_parser import SimplexTreeFileParser
+from off_file_generator import OffFileGenerator
 
 
 import matplotlib.pyplot as plt
@@ -159,24 +160,11 @@ class SimplexTreeViewer:
         # tdabc.build_filtered_simplicial_complex()
         # tdabc.draw_simplex_tree()
 
-        self.load_simplex_tree()
+        # self.load_simplex_tree()
+        self.create_off_file()
+        self.show_off(idx_off = 0)
 
-        filepath = "{0}/docs/SIMPLEX_TREES/".format(utils.get_module_path())
-        all_files = utils.get_all_filenames(filepath)
-        off_files = []
-        desired_off_name = ""
 
-        for _file in all_files:
-            is_off = False
-            if _file.find(".off") != -1:
-                if desired_off_name is None or len(desired_off_name) == 0:
-                    is_off = True
-                elif _file.find(desired_off_name) != -1:
-                    is_off = True
-            if is_off:
-                off_files.append(_file)
-
-        os.system("geomview {0}".format(off_files[0]))
 
     def example(self):
         import gudhi
@@ -208,5 +196,25 @@ class SimplexTreeViewer:
         st_parser = SimplexTreeFileParser(filename, filtration_predicate)
         st_parser.execute()
 
+        return st_parser
+
     def create_off_file(self):
-        pass
+        path = "{0}/docs/SIMPLEX_TREES/".format(utils.get_module_path())
+        if not os.path.isdir(path):
+            os.makedirs(path)
+        off_file_name = time.strftime(
+            "{0}_{1}_%y.%m.%d__%H.%M.%S.off".format(path, "simplex_tree"))
+
+        off_file_gen = OffFileGenerator(off_file_name)
+        stfp = self.load_simplex_tree()
+        off_file_gen.init_from_simplex_tree_parser(stfp)
+        off_file_gen.execute()
+
+    def show_off(self, index_off = 0):
+        filepath = "{0}/docs/SIMPLEX_TREES/".format(utils.get_module_path())
+        all_off_files = utils.get_all_filenames(root_path=filepath, file_pattern=".off")
+
+        if len(all_off_files) == 0 or len(all_off_files) < index_off-1:
+            return
+
+        os.system("geomview {0}".format(all_off_files[index_off]))
