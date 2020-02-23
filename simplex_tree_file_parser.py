@@ -91,3 +91,11 @@ class SimplexTreeFileParser:
         if self.points is None:
             return 0
         return len(self.points)
+
+    def simplices_count_by_dimension(self, face_dim=0):
+        if self.simplices is None or len(self.simplices) == 0:
+            return 0
+        if not face_dim in self.simplices:
+            return 0
+
+        return len(self.simplices[face_dim])

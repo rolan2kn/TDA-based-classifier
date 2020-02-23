@@ -162,9 +162,7 @@ class SimplexTreeViewer:
 
         # self.load_simplex_tree()
         self.create_off_file()
-        self.show_off(idx_off = 0)
-
-
+        # self.show_off(index_off = 0)
 
     def example(self):
         import gudhi
