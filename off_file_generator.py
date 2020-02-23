@@ -31,7 +31,7 @@ class OffFileGenerator:
             N = self.stf_parser.points_count()
             F = self.faces_count()
             E = 0
-            off.write("{0} {1} {2}\n".format(N, F, E))
+            off.write("{0} {1} {2}\n".format(int(N), int(F), int(E)))
 
         def faces_count(self):
             total_faces = 0
