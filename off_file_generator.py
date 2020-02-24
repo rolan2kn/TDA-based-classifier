@@ -50,7 +50,8 @@ class OffFileGenerator:
 
         def write_points(self, off):
             for point in self.stf_parser.points:
-                str_point = [str(c) for c in point]
+                p = point[:-1]
+                str_point = [str(c) for c in p]
                 line = "\t{0}\n".format(" ".join(str_point))
                 off.write(line)
 

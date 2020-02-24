@@ -33,10 +33,10 @@ class FiltrationGreaterThanPredicate(FiltrationPredicate):
         return self.filtration_value < new_value
 
 
-class FiltrationLogicalPredicate(FiltrationPredicate):
-    def __init__(self, filtration=None, function=None):
-        super(FiltrationLogicalPredicate, self).__init__(filtration)
-        self.logical_function = function
+class FiltrationOnOpenIntervalPredicate(FiltrationPredicate):
+    def __init__(self, filtrationInit=None, filtrationEnd=None,):
+        super(FiltrationOnOpenIntervalPredicate, self).__init__(filtrationInit)
+        self.filtrationEnd = filtrationEnd
 
     def eval(self, new_value):
-        return self.logical_function(self.filtration, new_value)
+        return self.filtration_value < new_value < self.filtrationEnd

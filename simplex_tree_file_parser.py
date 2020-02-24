@@ -20,7 +20,7 @@ class SimplexTreeFileParser:
         for line in st_file.readlines():
             str_qsimplex, str_point, filt = self.process_line(line)
 
-            if self.predicate.eval(filt):                   # if filtration predicate is True
+            if filt == 0 or self.predicate.eval(filt):                   # if filtration predicate is True
                 sdim = self.parse_qsimplex(str_qsimplex)           # the we get the q-simplex
 
                 if sdim == 0:                                   # a 0-simplex represent a point

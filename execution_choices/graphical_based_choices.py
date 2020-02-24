@@ -9,7 +9,8 @@ from dataset_handler import DatasetHandler, IRIS, SWISSROLL, DAILY_AND_SPORTS, L
 from dataset_plotter import DatasetPlotter
 from knn_classifier import kNNClassifier
 
-from filtration_predicates import FiltrationPredicate, FiltrationEqualPredicate, FiltrationLowerThanPredicate, FiltrationGreaterThanPredicate
+from filtration_predicates import FiltrationPredicate, FiltrationEqualPredicate, \
+    FiltrationLowerThanPredicate, FiltrationGreaterThanPredicate, FiltrationOnOpenIntervalPredicate
 from simplex_tree_file_parser import SimplexTreeFileParser
 from off_file_generator import OffFileGenerator
 
@@ -189,7 +190,15 @@ class SimplexTreeViewer:
     def load_simplex_tree(self):
         # filename = "{0}/docs/SIMPLEX_TREES/{1}".format(utils.get_module_path(), "simplex_tree_20.02.19__14.27.30.txt")
         filename = "{0}/docs/SIMPLEX_TREES/{1}".format(utils.get_module_path(), "simplex_tree_20.02.19__16.20.47.txt")
-        filtration_predicate = FiltrationLowerThanPredicate(8.0)
+        # filtration_predicate = FiltrationLowerThanPredicate(3)
+        # filtration_predicate = FiltrationLowerThanPredicate(2)
+        # filtration_predicate = FiltrationLowerThanPredicate(1)
+        # filtration_predicate = FiltrationLowerThanPredicate(0.5)
+        # filtration_predicate = FiltrationLowerThanPredicate(0.2)
+        # filtration_predicate = FiltrationOnOpenIntervalPredicate(0.2, 0.5)
+        # filtration_predicate = FiltrationOnOpenIntervalPredicate(0.3, 0.5)
+        # filtration_predicate = FiltrationOnOpenIntervalPredicate(0.5, 1)
+        filtration_predicate = FiltrationOnOpenIntervalPredicate(1, 1.5)
 
         st_parser = SimplexTreeFileParser(filename, filtration_predicate)
         st_parser.execute()
