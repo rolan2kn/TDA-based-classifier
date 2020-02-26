@@ -161,9 +161,8 @@ class SimplexTreeViewer:
         # tdabc.build_filtered_simplicial_complex()
         # tdabc.draw_simplex_tree()
 
-        # self.load_simplex_tree()
-        self.create_off_file()
-        # self.show_off(index_off = 0)
+        self.create_all_off_files()
+        # self.show_off(index_off = None)
 
     def example(self):
         import gudhi
@@ -187,41 +186,65 @@ class SimplexTreeViewer:
             print(fmt % tuple((filtered_value[0], point, filtered_value[1])))
             print("qsimplex = {0}, point = {1}, filt = {2}".format(qsimplex, point, filt) )
 
-    def load_simplex_tree(self):
-        # filename = "{0}/docs/SIMPLEX_TREES/{1}".format(utils.get_module_path(), "simplex_tree_20.02.19__14.27.30.txt")
-        filename = "{0}/docs/SIMPLEX_TREES/{1}".format(utils.get_module_path(), "simplex_tree_20.02.19__16.20.47.txt")
-        # filtration_predicate = FiltrationLowerThanPredicate(3)
-        # filtration_predicate = FiltrationLowerThanPredicate(2)
-        # filtration_predicate = FiltrationLowerThanPredicate(1)
-        # filtration_predicate = FiltrationLowerThanPredicate(0.5)
-        # filtration_predicate = FiltrationLowerThanPredicate(0.2)
-        # filtration_predicate = FiltrationOnOpenIntervalPredicate(0.2, 0.5)
-        # filtration_predicate = FiltrationOnOpenIntervalPredicate(0.3, 0.5)
-        # filtration_predicate = FiltrationOnOpenIntervalPredicate(0.5, 1)
-        filtration_predicate = FiltrationOnOpenIntervalPredicate(1, 1.5)
-
+    def load_simplex_tree(self, filename, filtration_predicate):
         st_parser = SimplexTreeFileParser(filename, filtration_predicate)
         st_parser.execute()
 
         return st_parser
 
-    def create_off_file(self):
+    def create_all_off_files(self):
         path = "{0}/docs/SIMPLEX_TREES/".format(utils.get_module_path())
         if not os.path.isdir(path):
             os.makedirs(path)
-        off_file_name = time.strftime(
-            "{0}_{1}_%y.%m.%d__%H.%M.%S.off".format(path, "simplex_tree"))
 
+        filename = "{0}{1}".format(path, "simplex_tree_20.02.19__16.20.47.txt")
+
+        filt_list = SimplexTreeFileParser.get_filtration_values(filename)
+
+        for filt in filt_list:
+            # flist = [i for i in filt_list if i != filt]
+
+            filtration_predicates = [FiltrationEqualPredicate(filt)]#, FiltrationLowerThanPredicate(filt)]
+                                     #, FiltrationGreaterThanPredicate(filt)]
+            for predicate in filtration_predicates:
+                self.create_off_file(path, filename, predicate)
+
+            del filtration_predicates
+
+            # for filt_end in flist:
+            #     predicate = FiltrationOnOpenIntervalPredicate(filt, filt_end)
+            #     self.create_off_file(path, filename, predicate)
+            #     del predicate
+
+        return
+
+    def create_off_file(self, path, filename, predicate):
+        print("\nprocessing simplicial complex with {0}".format(predicate))
+        path = "{0}{1}/".format(path, predicate.class_name())
+
+        if not os.path.isdir(path):
+            os.makedirs(path)
+
+        off_file_name = time.strftime(
+            "{0}_{1}_{2}_%y.%m.%d__%H.%M.%S.off".format(path, "simplex_tree", predicate))
         off_file_gen = OffFileGenerator(off_file_name)
-        stfp = self.load_simplex_tree()
+        stfp = self.load_simplex_tree(filename, predicate)
         off_file_gen.init_from_simplex_tree_parser(stfp)
         off_file_gen.execute()
+        del off_file_gen
+        del stfp
+        print("OFF file {0} was generated successfully".format(off_file_name))
 
-    def show_off(self, index_off = 0):
+    def show_off(self, index_off = None):
         filepath = "{0}/docs/SIMPLEX_TREES/".format(utils.get_module_path())
         all_off_files = utils.get_all_filenames(root_path=filepath, file_pattern=".off")
 
-        if len(all_off_files) == 0 or len(all_off_files) < index_off-1:
+        if len(all_off_files) == 0:
             return
+
+        if index_off is None or index_off < 0 or len(all_off_files)-1 < index_off:
+            file_name = all_off_files[-1]
+        else:
+            file_name = all_off_files[index_off]
 
         os.system("geomview {0}".format(all_off_files[index_off]))

@@ -9,12 +9,16 @@ class OffFileGenerator:
             self.off_filename = filename
 
         def init_from_simplex_tree_file(self, st_filename, filt_predicate):
-            assert st_filename is not None
+            assert st_filename is not None and filt_predicate is not None
             self.stf_parser = SimplexTreeFileParser(st_filename, filt_predicate)
 
         def init_from_simplex_tree_parser(self, parser):
             assert parser is not None and isinstance(parser, SimplexTreeFileParser)
             self.stf_parser = parser
+
+        def init_from_simplex_tree(self, st, filt_predicate):
+            assert st is not None and filt_predicate is not None
+            self.stf_parser = SimplexTreeFileParser(st, filt_predicate)
 
         def execute(self):
             off_file = open(self.off_filename, "w")

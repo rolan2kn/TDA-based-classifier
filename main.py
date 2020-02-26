@@ -89,6 +89,7 @@ class ProgramChoiceSelector:
 if __name__ == '__main__':
     try:
         # ProgramChoiceSelector(RUN_TDABC_IRIS).execute()
+
         ProgramChoiceSelector(RUN_VISUALIZATIONS).execute()
     except BaseException as e:
         print("ERROR global: {0}".format(e))

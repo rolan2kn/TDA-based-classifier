@@ -75,14 +75,9 @@ def get_all_filenames(root_path=None, file_pattern = None):
     root_path = get_module_path() if root_path is None else root_path
     files_list = []
 
-    for path, dir, files in os.walk(root_path):
-
+    for path, _, files in os.walk(root_path):
         for _file in files:
-            if len(dir) == 1:
-                str_to_print = "{0}/{1}/{2}".format(path, dir, _file)
-
-            else:
-                str_to_print = "{0}/{1}".format(path, _file)
+            str_to_print = "{0}/{1}".format(path, _file)
 
             if file_pattern is None or len(file_pattern) == 0:
                 files_list.append(str_to_print)
